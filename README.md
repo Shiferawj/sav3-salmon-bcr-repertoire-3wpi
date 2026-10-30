@@ -4,7 +4,7 @@ Analysis scripts for Atlantic salmon B-cell receptor repertoire analysis. Fish w
 Raw RNA-sequencing data are available from the NCBI Sequence Read Archive
 under BioProject PRJNA1058957:
 https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1058957
-The R scripts used MiXCR output imported to R using Immunarch.
+The scripts analyze MiXCR clonotype tables imported into R with Immunarch.
 ## R version and packages
 - R version 4.6.1 (2026-06-24 ucrt)
 - R packages can be found from the scrip file
